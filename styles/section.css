@@ -27,5 +27,26 @@
     max-width: 535px;
     background-color: #252525;
     padding: 16px 127px;
+    border: 1pX solid #33A8DB;
     border-radius: 57px;
+}
+
+#transform-world {
+    background-image: url(/assets/images/a2defa0bf6a960e70c3ed8254716011c5f5e6f04.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 560px;
+    border-top: 1px solid #33A8DB80;
+    border-bottom: 1px solid #33A8DB80;
+    padding: 200px;
+}
+
+#transform-world p {
+    font-size: 2.5rem;
+    font-weight: 900;
+    text-transform: lowercase;
+    max-width: 250px;
+    text-shadow: 3px 2px #33A8DB;
 }
