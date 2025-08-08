@@ -40,7 +40,7 @@
     height: 560px;
     border-top: 1px solid #33A8DB80;
     border-bottom: 1px solid #33A8DB80;
-    padding: 200px;
+    padding: 160px;
 }
 
 #transform-world p {
@@ -49,4 +49,28 @@
     text-transform: lowercase;
     max-width: 250px;
     text-shadow: 3px 2px #33A8DB;
+}
+
+#professional-challenges {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    background-color: black;
+    text-align: center;
+    justify-items: center;
+    align-items: center;
+    padding: 96px 0;
+}
+
+#professional-challenges img {
+    max-width: 659px;
+    width: 100%;
+}
+
+#professional-challenges h2 {
+    max-width: 746px;
+}
+
+#professional-challenges p {
+    max-width: 792px;
 }
