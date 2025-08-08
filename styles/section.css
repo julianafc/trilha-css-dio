@@ -1,0 +1,31 @@
+#course-content {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 0 0 114px 0;
+    gap: 24px;
+}
+
+#course-content p {
+    max-width: 792px;
+}
+
+.modules-list {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    justify-content: center;
+    align-items: center;
+}
+
+.module {
+    max-width: 535px;
+    background-color: #252525;
+    padding: 16px 127px;
+    border-radius: 57px;
+}
