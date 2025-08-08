@@ -1,22 +1,34 @@
-# Desafio 01: Criando sua primeira Landing Page com HTML e CSS
+# 🚀 Trilha CSS DIO - Landing Page
 
-Bem vindo(a) ao primeiro desafio da Trilha de CSS da DIO! Nela, você vai construir sua primeira Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS,
-as propriedades básicas da linguagem de estilização, além de trabalhar com as unidades de medidas relativas e absolutas que aprendemos ao longo da trilha.
+Uma landing page desenvolvida como desafio da Trilha de CSS da DIO. O objetivo é praticar os fundamentos de HTML e CSS, criando uma página moderna, responsiva e visualmente atraente, sem o uso de frameworks ou bibliotecas externas.
 
-[Clique aqui](https://micheleambrosio.github.io/dio-trilha-css-desafio-01/) para acessar o resultado final da Landing Page criada a partir do desafio!
+## 📋 Funcionalidades
 
-![image](https://user-images.githubusercontent.com/55519539/183538055-6cce606c-7d1d-4d15-a4be-ffeb5b37c956.png)
+- Estrutura de landing page com cabeçalho, seções de conteúdo e rodapé
+- Destaque para módulos de aprendizado em CSS
+- Seção visual com imagem de fundo e chamada para ação
+- Layout responsivo para diferentes tamanhos de tela
+- Gradiente em textos e botões utilizando CSS puro
+- Imagens ilustrativas e logotipos
 
-Para você realizar o desafio, basta fazer um **fork** para o seu GitHub e começar a mexer no projeto.
-Dentro da pasta *main*, você vai encontrar todas as imagens e o arquivo HTML, contendo a estrutura básica da sua página, faltando apenas
-realizar a estilização da sua página. É necessário que você faça toda a parte responsável por interligar sua página HTML com suas folhas
-de estilo para que o resultado da estilização funcione.
+## 🛠️ Ferramentas e Desenvolvimento
 
-[Link do Figma](https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=2%3A6) contendo o protótipo do desafio para
-que você possa se basear.
+- **HTML5:** Estruturação semântica do conteúdo
+- **CSS3:** Estilização, responsividade e efeitos visuais
+- **Google Fonts:** Tipografia personalizada com Raleway
+- **Figma:** Protótipo visual de referência ([ver protótipo](https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=2%3A6))
 
-*Observações: para aplicar os textos em gradiente, utilize a propriedade CSS background-clip, porém, para funcionar em alguns navegadores,
-é necessário utilizar a propriedade -webkit-background-clip: text;*
+## 📖 Habilidades Praticadas
 
-Caso tenha alguma dúvida, ou queira comparar o resultado do desafio que você fez, nós temos o site finalizado na branch *final*. Basta alterar a branch do projeto
-utilizando o comando `git checkout final` no seu terminal.
+- Estruturação semântica de páginas HTML
+- Modularização e organização de estilos CSS
+- Implementação de layouts responsivos com Flexbox
+- Aplicação de gradientes e efeitos visuais com background-clip
+- Utilização de imagens e assets otimizados
+- Prática de boas práticas em organização de projetos front-end
+
+## 🖼️ Demonstração
+
+![Demonstração da Landing Page](https://user-images.githubusercontent.com/55519539/183538055-6cce606c-7d1d-4d15-a4be-ffeb5b37c956.png)
+
+Acesse o projeto através deste link: [Trilha CSS DIO](https://julianafc.github.io/trilha-css-dio/)
